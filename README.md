@@ -1,4 +1,4 @@
-# api_app
+# sqlflit app
 
 A new Flutter project.
 
